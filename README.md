@@ -1,3 +1,8 @@
+# Start and end date
+
+Started on the 2nd of May, and ended on the 10th of May.
+It was a udacity project.
+
 # changes made
 
 ## html
